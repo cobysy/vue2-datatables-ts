@@ -1,4 +1,6 @@
-# vue2-datatables
+# vue2-datatables-ts
+
+VueJS (2.x) + DataTables + TypeScript demo 
 
 ## Project setup
 ```
